@@ -46,6 +46,8 @@
   <a href="https://github.com/tilohk/TrackConnect">TrackConnect</a> (Work in Progress)
   <br/>
   <a href="https://www.instagram.com/strangerworlds.ai/">strangerworlds.ai</a>
+  <br/><br/>
+  More following soon...
 </p>
 
 <hr/>
