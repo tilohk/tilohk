@@ -43,7 +43,7 @@
 
 <h3><img src="https://cdn3.emoji.gg/emojis/8085-maruyes.gif" width="30"/> My Projects:</h3>
 <p>
-  <a href="https://github.com/tilohk/TrackConnect">TrackConnect</a> (Work in Progress)
+  <a href="https://github.com/tilohk/TrackConnect">TrackConnect</a> (Currently Private - Work in Progress)
   <br/>
   <a href="https://www.instagram.com/strangerworlds.ai/">strangerworlds.ai</a>
   <br/><br/>
