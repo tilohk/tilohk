@@ -1,7 +1,7 @@
 <h1><img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="30"/> Welcome!</h1>
 
 <p>
-  My name is Tilo and I'm a Developer and Designer from Germany working remotely. <img src="https://cdn3.emoji.gg/emojis/7049-earthblurple.gif" width="20"/>
+  My name is Tilo and I'm a Developer and Designer from Germany working remotely.
   <br/>
   Here, you'll find a collection of my coding adventures and projects. Feel free to explore, contribute, or simply connect. 
 </p>
@@ -44,8 +44,6 @@
 <h3><img src="https://cdn3.emoji.gg/emojis/8085-maruyes.gif" width="30"/> My Projects:</h3>
 <p>
   <a href="https://github.com/tilohk/TrackConnect">TrackConnect</a> (Currently Private - Work in Progress)
-  <br/>
-  <a href="https://www.instagram.com/strangerworlds.ai/">strangerworlds.ai</a>
   <br/><br/>
   More following soon...
 </p>
